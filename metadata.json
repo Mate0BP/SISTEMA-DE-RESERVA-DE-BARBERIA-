@@ -1,0 +1,7 @@
+{
+  "name": "Blade & Co - Barbería & Grooming",
+  "description": "Sistema completo de reservas y gestión operativa para Blade & Co Barbershop",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
