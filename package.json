@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit",
-    "test": "echo \"No tests defined yet\" && exit 0"
+    "test:solid": "tsx src/domain/verify_solid.ts",
+    "test": "tsx src/domain/verify_solid.ts"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",
